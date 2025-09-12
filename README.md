@@ -44,6 +44,13 @@ An intelligent web application that analyzes photos of your ingredients and gene
 4. **Recipe Generation**: Amazon Bedrock's Claude AI creates personalized recipes based on detected ingredients
 5. **Recipe Delivery**: Multiple recipe options are presented with ingredients, instructions, and cooking details
 
+## Demo Video
+
+Check out KitchenLens in action:
+
+![Demo Video](DemoVideo.mov)
+
+
 ## Key Technical Features
 
 ### Intelligent Ingredient Detection

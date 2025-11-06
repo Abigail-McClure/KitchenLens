@@ -87,7 +87,7 @@ export AWS_DEFAULT_REGION=us-east-1
 ### Installation
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/Abigail-McClure/KitchenLens.git
 cd kitchen-lens
 
 # Install dependencies
